@@ -11,6 +11,9 @@ This pack adds a few neat features, which include:
 - Calcmod
 - Graves
 - REI
+- Invmove
+- And many more!
+You can view the mod list in Versions on [Modrinth](https://modrinth.com/modpack/fabulouslyenhanced/versions#all-versions).
 
 ## Contribution
 If you wish to report a bug, add a mod or remove a mod, do so via [Issues](https://github.com/LordImmaculate/FabulouslyEnhanced/issues)
