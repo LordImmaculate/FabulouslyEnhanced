@@ -1,13 +1,16 @@
 # Fabulously Enhanced
 Fabulously Enhanced is a pack that improves performance by a lot, without making your game looking worse.
-This pack is based on [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized), they are absolute legends for making it.
+The pack uses some client-side mods, but it should fully work on server with the modpack not installed.
 
 This pack adds a few neat features, which include:
-- Journeymap, for mapping and waypoints
+- Journeymap
 - Zoomify
 - Freelook
 - Jade
 - No Chat Reports
+- Calcmod
+- Graves
+- REI
 
 ## Contribution
-The pack is still in beta, if you wish to report a bug or add a mod, do so via [Issues](https://github.com/LordImmaculate/FabulouslyEnhanced/issues)
+If you wish to report a bug, add a mod or remove a mod, do so via [Issues](https://github.com/LordImmaculate/FabulouslyEnhanced/issues)
